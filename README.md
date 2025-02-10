@@ -1,6 +1,7 @@
-# 🚀 Mastering Linked Lists in C++ 🪖
+# 🚀 Mastering Linked Lists in C++
 
 Welcome to the **Mastering Linked Lists in C++** repository! This project provides a comprehensive implementation of a **singly linked list** in C++, including essential operations and solutions to popular coding interview questions. Whether you're preparing for interviews or aiming to deepen your data structure knowledge, this repo is for you!
+
 ---
 
 ## 📝 Features
@@ -42,7 +43,6 @@ The project is organized into a single C++ file (`main.cpp`) containing:
    ```bash
    git clone https://github.com/your-username/mastering-linked-lists.git
    cd mastering-linked-lists
----
 
 ## **Example Output**
 ```
