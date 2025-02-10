@@ -1,6 +1,3 @@
-Here’s the `README.md` file formatted as a code block for easy copying and pasting into your GitHub repository:
-
-```markdown
 # Mastering Linked Lists in C++
 
 Welcome to the **Mastering Linked Lists in C++** repository! This project provides a comprehensive implementation of a singly linked list in C++, complete with essential operations and solutions to popular interview questions. Whether you're preparing for coding interviews or looking to deepen your understanding of data structures, this repository is for you.
